@@ -81,3 +81,20 @@
     color: black;
 }
 
+/* table*/
+.table , th, td{
+    border: solid 2px;
+    border-collapse: collapse;
+    color:black;
+    text-align: center;
+    padding: 30px;
+    margin:auto;
+}
+
+tr:nth-child(odd)  {
+    background-color:slategrey;
+ }
+
+tr:nth-child(even)  {
+    background-color:beige;
+}
