@@ -1,0 +1,95 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+
+.song{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+
+.direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+    background-color: azure;
+}
+
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+
+.direction:hover{
+    background-color:bisque;
+    color:aquamarine;
+}
+
+
+/* characters */
+.PRET{
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+
+.SILL{
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+
+.NICE{
+    color :chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.SPAR{
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.ALL{
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:chocolate;
+}
+
+/*speech*/
+.speech {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+
+/*song*/
+.song {
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: black;
+}
+
+.song1{
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: black;
+}
+
+.song2{
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: black;
+}
+
