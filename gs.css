@@ -45,15 +45,29 @@
 }
 
 .MER{
-    color: chocolate;
+    color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
 }
 
+.MER:hover{
+    background-color:bisque;
+    color:brown;
+    border: 2px solid;
+    filter: blur(1px);
+}
+
 .THES{
-    color: chocolate;
+    color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
+}
+
+.THES:hover{
+    background-color:bisque;
+    color:brown;
+    border: 2px solid;
+    filter: blur(1px);
 }
 
 .ALL{
@@ -65,7 +79,7 @@
 
 /*speech*/
 .speech {
-    font-style: italic;
+    font-style: normal;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
@@ -94,7 +108,7 @@
 }
 
 /* table*/
-.table , th, td{
+.table ,th, td{
     border: solid 2px;
     border-collapse: collapse;
     color:black;
@@ -110,3 +124,5 @@ tr:nth-child(odd)  {
 tr:nth-child(even)  {
     background-color:beige;
 }
+
+
