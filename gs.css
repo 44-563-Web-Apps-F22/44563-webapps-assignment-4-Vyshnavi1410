@@ -86,6 +86,7 @@
     color:brown;
     border: 2px solid;
     filter: blur(1px);
+    text-shadow: 3px 3px;
 }
 
 .ALL{
@@ -148,5 +149,30 @@ tr:nth-child(even)  {
 
 .scene{
     color: aqua;
+}
+
+.navigationbar-horizontal {
+  
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color:aliceblue;
+}
+
+ul.navigationbar-horizontal li {
+    float:left; 
+    color:beige;
+    background-color:burlywood;
+}
+    
+.navigationbar-horizontal a {
+    display:block;
+    padding: 15px;
+    color: aliceblue;
+}
+
+.navigationbar-horizontal a:hover {  
+    background-color:cyan;
+    color:white;
 }
 
