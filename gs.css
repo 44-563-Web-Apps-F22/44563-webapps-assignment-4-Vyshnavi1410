@@ -1,3 +1,21 @@
+/*speech*/
+.speech {
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+
+/*song*/
+.song {
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: black;
+    text-indent: 40px;
+}
+
+
 .direction{
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
@@ -91,6 +109,7 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
     color: black;
+    text-indent: 40px;
 }
 
 .song1{
@@ -98,6 +117,7 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
     color: black;
+    text-indent: 40px;
 }
 
 .song2{
@@ -105,6 +125,7 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
     color: black;
+    text-indent: 40px;
 }
 
 /* table*/
@@ -125,4 +146,7 @@ tr:nth-child(even)  {
     background-color:beige;
 }
 
+.scene{
+    color: aqua;
+}
 
